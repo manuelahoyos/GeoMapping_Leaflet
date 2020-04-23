@@ -11,6 +11,10 @@
 
 ## Maps:
 
-![Image description](images/TumorResponse.png)
 
-<img src="images/precipitation.png" width="600">
+
+<img src="images/StreetMap.png" width="700">
+
+<img src="images/StreetMap.png" width="700">
+
+<img src="images/StreetMap.png" width="700">
