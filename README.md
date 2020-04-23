@@ -5,7 +5,7 @@ Assignment in which USGS earthquake data were mapped alongside tectonic plate da
 
 ## Data:
 
-The data used was 'all earthquakes from the Past 7 Days' extracted in JSON format from the United States Geological Survey, or USGS. The URL of this JSON and an API key were used to pull in the data. The tectonic plate data was pulled from https://github.com/fraxen/tectonicplates. 
+The data used was 'all earthquakes from the past 7 days' extracted in JSON format from the United States Geological Survey, or USGS. The URL of this JSON and an API key were used to pull in the data. The tectonic plate data was pulled from https://github.com/fraxen/tectonicplates. 
 
 ## Workflow:
 
