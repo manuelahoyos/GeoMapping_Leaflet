@@ -1,7 +1,7 @@
 # GeoMapping with Leaflet
 
 ## Overview:
-Assignment in which USGS earthquake data was mapped alongside tectonic plate data using JavaScript, HTML and Leaflet.
+Assignment in which USGS earthquake data were mapped alongside tectonic plate data using JavaScript, HTML and Leaflet.
 
 ## Data:
 
