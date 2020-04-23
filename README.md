@@ -4,6 +4,7 @@
 Assignment in which USGS earthquake data was mapped alongside tectonic plate data using JavaScript, HTML and Leaflet.
 
 ## Data:
+
 The data used was 'All Earthquakes from the Past 7 Days' extracted in JSON format from the United States Geological Survey, or USGS. The URL of this JSON and an API key were used to pull in the data. The tectonic plate and seismic activity data was pulled from https://github.com/fraxen/tectonicplates. 
 
 ## Workflow:
