@@ -9,7 +9,7 @@ The data used was 'all earthquakes from the Past 7 Days' extracted in JSON forma
 
 ## Workflow:
 
-A map was created using Leaflet, plotting all of the earthquakes from your data set based on their longitude and latitude. The tectonic plates were visualized alongside the seismic activity data. The magnitude of the earthquake was represented by the size and color. Earthquakes with higher magnitudes should are larger and darker in color.
+A map was created using Leaflet, which plots all of the earthquakes from your data set based on their longitude and latitude. The tectonic plates were visualized alongside the seismic activity data. The magnitude of the earthquake was represented by the size and color. Earthquakes with higher magnitudes should are larger and darker in color.
 
 Three base maps were chosen to visualize the street, satellite, and dark views. The two  datasets were separated into overlays that can be turned on and off independently.
 
